@@ -1,1 +1,3 @@
 # Wordle
+
+![wordle](wordle.gif)
